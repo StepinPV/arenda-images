@@ -1,0 +1,32 @@
+[
+  {
+    "items": [
+      { "title": "Эскаваторы", "link": "/catalog/arenda-ekskavatora" },
+      { "title": "Погрузчики", "link": "/catalog/arenda-pogruzchika" },
+      { "title": "Автовышки", "link": "/catalog/arenda-avtovyshki" },
+      { "title": "Автокраны", "link": "/catalog/arenda-avtokrana" },
+      { "title": "Башенный кран", "link": "/catalog/bashennie-krani" },
+      { "title": "Гусеничный кран", "link": "/catalog/gusenichnye-krany" },
+      { "title": "Самосвал", "link": "/catalog/arenda-samosvala" },
+      { "title": "Бульдозер", "link": "/catalog/arenda-buldozera" },
+      { "title": "Ямобур", "link": "/catalog/arenda-yamobura" },
+      { "title": "Бетононасос", "link": "/catalog/arenda-betononasosa" },
+      {
+        "title": "Автобетоносмеситель",
+        "link": "/catalog/arenda-avtobetonosmesitelya"
+      },
+      {
+        "title": "Манипулятор",
+        "link": "/catalog/arenda-manipulyatora"
+      },
+      {
+        "title": "Длинномер",
+        "link": "/catalog/arenda-dlinnomera"
+      },
+      {
+        "title": "Поливочная машина",
+        "link": "/catalog/arenda-polivomoechnoi-mashiny"
+      }
+    ]
+  }
+]
